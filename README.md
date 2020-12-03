@@ -15,8 +15,6 @@ Here are some ideas to get you started:
 
 ### Hi there, I'm Mehar - aka [meharbhatia][website] 👋
 
-![Visitor Count](https://profile-counter.glitch.me/meharbhatia/count.svg)
-
 ## I'm a research assistant at MIDAS Lab, IIIT Delhi, India.
 - 🌱 I’m currently learning
 - 🔭 I’m currently working on Natural Language Understanding, Spoken Language Processing, Multimodal Representation Learning, Interpretabilty, Knowledge Reasoning
