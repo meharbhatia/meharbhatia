@@ -15,7 +15,9 @@ Here are some ideas to get you started:
 
 ### Hi there, I'm Mehar Bhatia. Here is the link to my website: [Click here][website] 👋
 
-## I'm currently an Applied Research Scientist at NeuralSpace. I shall also begin NLP-research at Deep Cognition and Language Reasoning Lab (DeCLaRe) at Singapore University of Technology and Design (SUTD). I was previously a full-time Research Assistant at Multimodal Digital Media Analysis Lab (MIDAS Lab), IIIT Delhi, India.
+## I'm currently an Applied Research Scientist at NeuralSpace. 
+
+I shall also begin NLP-research at Deep Cognition and Language Reasoning Lab (DeCLaRe) at Singapore University of Technology and Design (SUTD). I was previously a full-time Research Assistant at Multimodal Digital Media Analysis Lab (MIDAS Lab), IIIT Delhi, India.
 - 🌱 I’m currently learning
 - 🔭 I’m currently working on Natural Language Understanding, Conversational AI, QA, Dialog, Spoken Language Processing, Multimodal Representation Learning, Interpretabilty, Knowledge Reasoning.
 - 👯 I’m always looking forward to interacting and collaborating with other researchers and creators
