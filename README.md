@@ -15,13 +15,13 @@ Here are some ideas to get you started:
 
 ### Hi there, I'm Mehar Bhatia. Here is the link to my website: [Click here][website] 👋
 
-## I'm currently an Applied Research Scientist at NeuralSpace. 
+## I'm currently a Graduate CS student at UBC Vancouver, researching in NLP. 
 
-I shall also begin NLP-research at Deep Cognition and Language Reasoning Lab (DeCLaRe) at Singapore University of Technology and Design (SUTD). I was previously a full-time Research Assistant at Multimodal Digital Media Analysis Lab (MIDAS Lab), IIIT Delhi, India.
+Previously, I was an Applied Research Scientist at NeuralSpace. I have also been a part of various academic NLP research labs, Deep Cognition and Language Reasoning Lab (DeCLaRe) at SUTD, Multimodal Digital Media Analysis Lab (MIDAS Lab) at IIIT Delhi, Language Technologies Research Center at IIIT Hyderabad. 
 - 🌱 I’m currently learning
-- 🔭 I’m currently working on Natural Language Understanding/Generation, Commonsense Reasoning, Conversational AI, QA, Dialog, Spoken Language Processing, Multimodal Representation Learning, Interpretabilty, Knowledge Reasoning.
+- 🔭 I’m currently working on Natural Language Understanding, Commonsense Reasoning, Conversational AI, Multilingual Multimodal Learning.
 - 👯 I’m always looking forward to interacting and collaborating with other researchers and creators
-- 🥅 2021 Goals: Contribute to more projects
+- 🥅 2023 Goals: Contribute to more projects
 - ⚡ Fun fact: My perfect day will start and end with a cup of coffee... 
 
 ### Connect with me:
@@ -34,4 +34,4 @@ I shall also begin NLP-research at Deep Cognition and Language Reasoning Lab (De
 
 [website]: https://meharbhatia.github.io
 [twitter]: https://twitter.com/bhatia_mehar
-[linkedin]: https://www.linkedin.com/in/mehar-bhatia-bb6a6414b/
+[linkedin]: https://www.linkedin.com/in/meharbhatia23/
