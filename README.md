@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 
 ### Hi there, I'm Mehar Bhatia. Here is the link to my website: [Click here][website] 👋
 
-## I'm currently a Graduate CS student at UBC Vancouver, researching in NLP. 
+### I'm currently a Graduate CS student at UBC Vancouver, researching in NLP with Prof. Vered Shwartz. 
 
 Previously, I was an Applied Research Scientist at NeuralSpace. I have also been a part of various academic NLP research labs, Deep Cognition and Language Reasoning Lab (DeCLaRe) at SUTD, Multimodal Digital Media Analysis Lab (MIDAS Lab) at IIIT Delhi, Language Technologies Research Center at IIIT Hyderabad. 
 - 🌱 I’m currently learning
